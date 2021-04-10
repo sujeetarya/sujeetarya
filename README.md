@@ -10,7 +10,7 @@
 ## ❤️ Thanks
 <ul>
   <li>To my family for the support they have provide me. I will always be grateful and thankful to have such a loving family.</li>
-  <li>To the people/comunity who provide free content on the internet & helped me to be a self taught developer</li>
+  <li>To the people/community who provide free content on the internet & helped me to be a self taught developer</li>
   <ul>
     <li> <a href="https://www.youtube.com/channel/UCbjozK_PYCTLEluFlrJ8UZg">Durga sir [Java]</a> </li>
     <li> <a href="https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA">mycodeschool [Data Structure]</a> </li>
