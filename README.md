@@ -3,7 +3,7 @@
 - 😅 Terible at speling
 - 💖 Loves to experiments with various codes
 - 👀 I'm currently working on something cool!
-- 🌐 For more ![sujeetarya.in](sujeetarya.in)
+- 🌐 For more sujeetarya.in
 
 ## 💻 Stats
 ![sujeetarya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetarya&layout=compact&exclude_repo=needflix,m3d5-password-manager)
